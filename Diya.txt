@@ -1,0 +1,16 @@
+Artificial Intelligence
+
+Artificial intelligence (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals.
+Researchers expect an intelligent system to display following traits: Reasoning and problem solving, knowledge representation, planning, learning, natural language processing, perception, motion and manipulation, social intelligence, general intelligence, etc.
+Face recognition is an application of machine perception.
+
+Face Recognition Security System
+The face is one of the easiest ways to distinguish the individual identity of each other. A facial recognition system is a technology capable of identifying or verifying a person from a digital image or a video frame from a video source. There are multiple methods in which facial recognition systems work, but in general, they work by comparing selected facial features from given image with faces within a database. It is also described as a Biometric Artificial Intelligence based application that can uniquely identify a person by analysing patterns based on the person's facial textures and shape.
+
+Techniques 
+Human face recognition procedure basically consists of two phases. The first involves feature extraction and selection and, the second is the classification of objects. Later developments introduced varying technologies to the procedure. Some of the most notable include the following techniques: traditional, 3-dimensional recognition, skin texture analysis, a combination of all and thermal cameras. Moreover, there are two kinds of methods that are currently popular in developed face recognition pattern namely, Eigenface method and Fisherface method. 
+
+Applications
+It has wide ranging applications from mobile platforms in which it is used for social medias and ID verification solutions to its deployment in security services, an example of which is the setting up of an automated border processing system called SmartGate, by The Australian Border Force and New Zealand Customs Services, that uses face recognition, which compares the face of the traveller with the data in the e-passport microchip. Some of its additional uses include searching for potential criminals and terrorists at Super Bowl XXXV, to prevent voter fraud in the 2000 Mexican presidential election, etc.
+
+
