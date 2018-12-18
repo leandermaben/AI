@@ -1,0 +1,28 @@
+	Artificial Intelligence is the science of making computers act without specifically being programmed to do so.In the 1960's when the idea of robotics- machines that mimiced human behaviour - became popular, computer scientists realised that it was not possible to program the the robot to deal with the infinitely many situations that it would have to face should it actually mimic humans. The solution  - why not let the machines learn what to do themselves. Hence, the the research started which would lead tothe development of machine learning as we know it today.
+
+
+	Artificial intelligence is the electricity of modern world and is used almost everywhere and in every piece of technology imaginable.
+Machine learning algorithms are mainly classified as Supervised and un supervised.
+
+
+	Both these techniques require huge amounts of data. The major difference is that in supervised learning we provide the results for each set of parameters in the training data but in unsupervised learning we dontt.
+
+
+	The amount of cyber threats that emerge are so great that it is almost impossible for human analysts to actually examine all the threats and write down rules to neutralize them.So AI is the future of cyber security.
+
+
+	One possible project that comes to my mind regarding AI in cyber security is collecting a lot of data (snipets of code) along with the result (whetherv they are harmful or not). We can then train our AI model to generate an appropriate hypothesis using logistic regression or artificial neural networks to predict whether a particular code snippet is harmful or not and if it is report it immediately and ask the user if it would be ok to wipe it from memory before it gets a chance to infect the computer. All downloaded items and data in portable memory devices can be run be made to run through our model to protect our computer.
+
+
+	We can similarly use this model to detect spam ails and calls. 
+
+
+
+
+
+
+By :
+Leander M Maben
+Sec-M
+Working Committee
+MIST
